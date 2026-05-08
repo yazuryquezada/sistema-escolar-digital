@@ -29,6 +29,7 @@ Plataforma web desarrollada para la gestión académica y administrativa de inst
 <img width="1919" height="874" alt="image" src="assets/logo_se.png" />
 
 ---
+<br>
 
 ## ✨ Características Principales
 
@@ -45,6 +46,7 @@ Plataforma web desarrollada para la gestión académica y administrativa de inst
 - 📱 Diseño totalmente responsive
 
 ---
+<br>
 
 ## 🚀 Beneficios
 
@@ -56,6 +58,7 @@ Plataforma web desarrollada para la gestión académica y administrativa de inst
 - Permite acceso rápido y seguro a la información
 
 ---
+<br>
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -69,12 +72,14 @@ Plataforma web desarrollada para la gestión académica y administrativa de inst
 </p>
 
 ---
+<br>
 
 ## 🌍 Implementación en Entorno Real
 
 Actualmente este sistema está siendo utilizado en un liceo técnico en artes para la gestión académica y administrativa.
 
 ---
+<br>
 
 ## 📸 Funcionalidades del Sistema
 
@@ -85,6 +90,7 @@ Sistema seguro de autenticación con control de acceso por roles.
 <img src="assets/se.png" width="100%">
 
 ---
+<br>
 
 ### 🖥️ Dashboard Principal
 
@@ -93,6 +99,7 @@ Panel administrativo moderno para la gestión general de la plataforma.
 <img src="assets/principal2.png" width="100%">
 
 ---
+<br>
 
 ### 👨‍🎓 Gestión de Estudiantes
 
@@ -101,6 +108,7 @@ Administración de estudiantes, cursos y secciones académicas.
 <img src="assets/estudiantes.png" width="100%">
 
 ---
+<br>
 
 ### 📋 Control de Asistencia
 
@@ -109,18 +117,21 @@ Registro y seguimiento de asistencia estudiantil de manera organizada y eficient
 <img src="assets/asistencia1.png" width="100%">
 
 ---
+<br>
 
 ### 📱 Diseño Responsive
 
 Interfaz adaptable a computadoras, tablets y dispositivos móviles.
 
 ---
+<br>
 
 ## ⚠️ Aviso
 
 El código fuente de este sistema no se encuentra disponible públicamente debido a que la licencia del software se encuentra actualmente en proceso de comercialización y venta.
 
 ---
+<br>
 
 ## 📩 Contacto
 
@@ -134,6 +145,7 @@ Si deseas una demostración o adquirir este sistema, puedes contactarme:
 https://www.linkedin.com/in/yazuryquezada
 
 ---
+<br>
 
 <p align="center">
 ✨ Desarrollado por SYQ • Soluciones Digitales
