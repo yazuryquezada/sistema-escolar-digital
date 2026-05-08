@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/" width="320">
+  <img src="assets/logo.png" width="320">
 </p>
 
 <h3 align="center">SYQ • Soluciones Digitales</h3>
