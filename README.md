@@ -86,35 +86,33 @@ Sistema seguro de autenticación con control de acceso por roles.
 
 ---
 
+### 🖥️ Dashboard Principal
+
+Panel administrativo moderno para la gestión general de la plataforma.
+
+<img src="assets/principal2" width="100%">
+
+---
+
 ### 👨‍🎓 Gestión de Estudiantes
 
-Administración de estudiantes, cursos y secciones.
+Administración de estudiantes, cursos y secciones académicas.
 
 <img src="assets/estudiantes.png" width="100%">
 
 ---
 
-### 📝 Registro de Notas
+### 📋 Control de Asistencia
 
-Sistema completo para registro y control de calificaciones.
+Registro y seguimiento de asistencia estudiantil de manera organizada y eficiente.
 
-<img src="assets/notas.png" width="100%">
-
----
-
-### 📄 Boletines y Reportes
-
-Generación de boletines, reportes y actas académicas.
-
-<img src="assets/reportes.png" width="100%">
+<img src="assets/asistencia1.png" width="100%">
 
 ---
 
 ### 📱 Diseño Responsive
 
 Interfaz adaptable a computadoras, tablets y dispositivos móviles.
-
-<img src="assets/responsive.png" width="100%">
 
 ---
 
