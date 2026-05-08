@@ -90,7 +90,7 @@ Sistema seguro de autenticación con control de acceso por roles.
 
 Panel administrativo moderno para la gestión general de la plataforma.
 
-<img src="assets/principal2-png" width="100%">
+<img src="assets/principal2.png" width="100%">
 
 ---
 
