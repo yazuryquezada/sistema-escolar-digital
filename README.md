@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="320">
+  <img src="assets/" width="320">
 </p>
 
 <h3 align="center">SYQ • Soluciones Digitales</h3>
@@ -26,7 +26,7 @@ Plataforma web desarrollada para la gestión académica y administrativa de inst
 
 <br>
 
-<img width="1919" height="874" alt="image" src="assets/banner.png" />
+<img width="1919" height="874" alt="image" src="assets/logo_se.png" />
 
 ---
 
